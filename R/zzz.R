@@ -71,7 +71,7 @@ on_altair_error <- function(e) {
 .onLoad <- function(libname, pkgname) {
 
   # sets the supported version
-  options(altair.python.version = "5.2.0")
+  options(altair.python.version = "5.5.0")
 
   alt <<-
     reticulate::import(

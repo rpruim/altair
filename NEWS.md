@@ -1,5 +1,7 @@
 # altair (development version)
 
+* Update to use Altair 5.5.0 (rpruim).
+
 * Update to use Altair 5.2.0 (#168).
 
 * Temporarily uses dev version of vegawidget (#174).
